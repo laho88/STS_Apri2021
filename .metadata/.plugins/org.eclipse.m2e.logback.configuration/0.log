@@ -1280,3 +1280,7 @@
 2021-04-16 01:49:15,763 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-04-16 01:49:15,764 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-04-16 01:49:15,766 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-04-16 01:49:15,788 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-16 01:49:15,790 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-16 01:49:15,791 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-04-16 01:49:15,791 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Code\Java\Apr2021\routingpractice\src\test\resources
